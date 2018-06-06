@@ -952,6 +952,7 @@ TrainerBattleBGM=frlg_trainerbattle.ogg
 MapPosition=2,10,5
 WildBattleBGM=frlg_wildpoke.ogg
 ShowArea=true
+DarkMap=true
 [255]
 [256]
 # Pokemon League 1
