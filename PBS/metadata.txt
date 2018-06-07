@@ -1334,6 +1334,7 @@ TrainerBattleBGM=frlg_trainerbattle.ogg
 MapPosition=2,10,5
 WildBattleBGM=frlg_wildpoke.ogg
 ShowArea=true
+DarkMap=true
 [401]
 # MT. MOON
 Bicycle=true
@@ -1343,6 +1344,7 @@ TrainerBattleBGM=frlg_trainerbattle.ogg
 MapPosition=2,10,5
 WildBattleBGM=frlg_wildpoke.ogg
 ShowArea=true
+DarkMap=true
 [402]
 # Pewter Museum 1F
 MapPosition=2,5,6
