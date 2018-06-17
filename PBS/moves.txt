@@ -558,3 +558,4 @@
 558,WATERSPORT,Water Sport,09E,0,WATER,Status,0,15,0,20,0,,"The user soaks itself with water. The move weakens Fire-type moves while the user is in the battle."
 559,WITHDRAW,Withdraw,01D,0,WATER,Status,0,40,0,10,0,d,"The user withdraws its body into its hard shell, raising its Defense stat."
 560,ZCONVERSION,Z-Conversion,159,0,NORMAL,Status,0,1,100,10,0,d,"The user changes its type to become the same type as one of its moves and massively increases its Special Attack."
+561,FUSIONFROST,Fusion Frost,07A,100,ICE,Special,100,5,0,00,0,befg,"The user brings down a giant glacier. It does more damage if influenced by an enormous thunderbolt or flame."
