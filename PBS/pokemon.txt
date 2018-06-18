@@ -17721,7 +17721,7 @@ BattlerPlayerY=0
 BattlerEnemyY=9
 BattlerAltitude=0
 Evolutions=
-[649]
+[650]
 Name='I) m) ZM
 InternalName=IMZM
 Type1=STEEL
@@ -17734,7 +17734,7 @@ EffortPoints=0,0,0,0,0,0
 Rareness=62
 Happiness=0
 Abilities=CANCEL
-Moves=0,FUSIONFROST
+Moves=0,TM52MOVE
 Compatibility=Undiscovered,Amorphous
 StepsToHatch=59903
 Height=4.46
