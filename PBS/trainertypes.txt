@@ -77,3 +77,4 @@
 75,ELITEFOUR_3,ELITE FOUR,100,hoenn_battle_e4.mp3,hoenn_beat_e4.mp3,,Mixed,,
 76,ELITEFOUR_4,Elite Four,30,,,,Male,,
 77,CZ,cz,30,,,,Male,,
+78,GAMER,GAMER,30,,,,Male,,

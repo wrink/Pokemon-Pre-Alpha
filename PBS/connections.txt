@@ -176,6 +176,8 @@
 197,West,0,198,East,0
 # ROUTE 12 (205) - ROUTE 11 right (215)
 205,West,51,215,East,0
+# ROUTE 12 (205) - ROUTE 11 left (214)
+205,West,51,214,East,0
 # Route 14 grass filler 2 (219) - ROUTE 11 right (215)
 219,East,0,215,West,69
 # ROUTE 15 right (208) - ROUTE 11 right (215)
