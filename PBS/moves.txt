@@ -576,5 +576,5 @@
 576,SHADOWSHED,Shadow Shed,132,0,SHADOW,Status,100,0,0,20,0,b,Cool,"A shadowy aura eliminates Reflect and similar moves."
 577,SHADOWSKY,Shadow Sky,131,0,SHADOW,Status,100,0,0,20,0,b,Cool,"Darkness hurts all but Shadow Pokémon for 5 turns."
 578,ZCONVERSION,Z-Conversion,159,0,QMARKS,Status,0,1,100,10,0,d,"The user changes its type to become the same type as one of its moves and massively increases its Special Attack."
-579,TM52MOVE,TM52,03F,140,DRAGON,QMARKS,90,5,0,00,0,bef,"Comets are summoned down from the sky. The attack's recoil harshly reduces the user's Sp. Atk stat."
+579,TM52MOVE,TM52,03F,140,QMARKS,Special,90,5,0,00,0,bef,"Comets are summoned down from the sky. The attack's recoil harshly reduces the user's Sp. Atk stat."
 
