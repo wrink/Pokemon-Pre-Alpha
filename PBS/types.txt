@@ -8,13 +8,13 @@ Immunities=GHOST
 Name=Fighting
 InternalName=FIGHTING
 DoubleWeaknesses=BIRD
-Weaknesses=FLYING,PSYCHIC,FAIRY,SHADOW
+Weaknesses=FLYING,PSYCHIC,FAIRY,SOUND,SHADOW
 Resistances=ROCK,BUG,DARK
 
 [2]
 Name=Flying
 InternalName=FLYING
-Weaknesses=ROCK,ELECTRIC,ICE,SHADOW
+Weaknesses=ROCK,ELECTRIC,ICE,SPACE,SHADOW
 Resistances=FIGHTING,BUG,GRASS
 Immunities=GROUND
 
@@ -85,7 +85,7 @@ InternalName=GRASS
 IsSpecialType=true
 DoubleWeaknesses=BIRD
 Weaknesses=FLYING,POISON,BUG,FIRE,ICE,SHADOW
-Resistances=GROUND,WATER,GRASS,ELECTRIC
+Resistances=GROUND,WATER,GRASS,ELECTRIC,SOUND
 
 [13]
 Name=Electric
@@ -143,21 +143,21 @@ Immunities=DRAGON
 Name=Sound
 InternalName=SOUND
 IsSpecialType=true
-Weaknesses=NORMAL,FAIRY,POISON,SHADOW
+Weaknesses=BUG,WATER,SPACE,SHADOW
 Resistances=PSYCHIC,DARK,SOUND
 
 [21]
 Name=Space
 InternalName=SPACE
 Weaknesses=WATER,GROUND,SHADOW
-Resistances=ELECTRIC,STEEL
+Resistances=ELECTRIC,STEEL,PSYCHIC,FLYING
 DoubleResistances=BIRD
 Immunities=SOUND
 
 [22]
 Name=Bird
 InternalName=BIRD
-DoubleWeaknesses=ROCK,ELECTRIC,ICE,SHADOW
+DoubleWeaknesses=ROCK,ELECTRIC,ICE,SPACE,SHADOW
 DoubleResistances=FIGHTING,BUG,GRASS
 Immunities=GROUND
 
